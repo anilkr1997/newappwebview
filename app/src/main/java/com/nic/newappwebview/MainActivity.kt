@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
 
    
 
-    private val URL = "https://themeatlas.nic.in/"
+    private val URL = ""
     private var isAlreadyCreated = false
 
     override fun onCreate(savedInstanceState: Bundle?) {
